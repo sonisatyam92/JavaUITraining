@@ -24,16 +24,6 @@ public class Sample {
             System.out.println("Invalid operator");
         }
 
-
-
-
-
-
-
-
-
-
-
     }
 
 
