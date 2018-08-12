@@ -1,0 +1,32 @@
+operators - [ARLAITBS]
+1. Arithmetic
+2. Relational
+3. Assignment
+4. Bitwise
+
+5. Logical
+6. Increment/Decrement
+7. Ternary
+8. Special
+
+
+
+a > b
+a*b;
+
+a<b
+
+b/a;
+
+a == b
+
+a>>b;
+
+
+
+
+
+check this  == true
+if not check this\
+if not check this
+
