@@ -5,9 +5,9 @@ public class Sample {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter first number");
-        int a = scanner.nextInt();
+        int a = 12;
         System.out.println("Please enter second number");
-        int b = scanner.nextInt();
+        int b = 13;
         System.out.println("Please enter the operator u wanna use : " +
                 " [1-Add, 2-Substract , 3-Multiply, 4- Divide]");
 
