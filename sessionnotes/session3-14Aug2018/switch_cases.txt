@@ -1,0 +1,21 @@
+Conditional Statements
+
+primitive datatype
+
+Java
+1. Primitive : byte, short, int, float, long, double, boolean, char
+2. Non-Primitive : String, Short, Byte, Integer, Float, Long, Double, Boolean, Character
+
+
+switch is alternate to if ...else ..if....
+
+switch(condition){
+  case 1:
+
+  case2 :
+
+
+  case 3 :
+         break;
+  case 4 :
+}

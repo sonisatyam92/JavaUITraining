@@ -1,0 +1,35 @@
+  /*
+         *
+         * Marks : 10
+         *
+         * 0 -> poor
+         * 1-3 -> Okay
+         * 4- 6 -> Average
+         * 7-9 -> Good
+         * 10 -> Excellent
+         *
+ */
+
+
+Write a program using switch to print the GRADES of student based on marks out of 10.
+
+0    --> Fail
+1-3  --> Needs Work
+4-6  --> Average
+7-9  --> Good
+10   --> Excellent
+
+Switch
+Ask user for their  birth month
+Jan - 1 ..... Dec - 12
+
+Jan-Mar ---> Spring
+Apr - June -> Summer
+JUly- Sept --> Monsoon
+Oct- Dec --> Winter
+
+
+If else if
+
+
+
