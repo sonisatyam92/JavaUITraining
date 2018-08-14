@@ -10,7 +10,7 @@ public class Main {
         } else if (a<b){
             System.out.println (b/a);
 
-        }else if (a==b){
+        }else {
             System.out.println (a>>b);
         }
     }
