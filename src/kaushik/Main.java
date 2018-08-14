@@ -7,13 +7,12 @@ public class Main {
         if (a>b) {
             System.out.println(a * b);
         }
-        else {
+        else if(a<b){
             System.out.println(b/a);
 
-        }
-            if(a==b){
+        }else{
                 System.out.println(a>>b);
-            }
+        }
 
     }
 }
